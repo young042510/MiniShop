@@ -8,11 +8,12 @@
 - 언어 및 빌드: Java 21, Gradle 빌드 도구 사용
 - 데이터베이스: H2 메모리 데이터베이스
 - 애플리케이션 아키텍처:
-  Controller: API 요청 처리
-  Service: 비즈니스 로직 수행
-  Repository: 데이터베이스와의 상호작용
-  Domain-Driven Design (DDD) 기반 설계:
-  domain, repository, service, controller 등으로 나뉘어 관리.
+  
+  - Controller: API 요청 처리
+  - Service: 비즈니스 로직 수행
+  - Repository: 데이터베이스와의 상호작용
+  - Domain-Driven Design (DDD) 기반 설계:
+  - domain, repository, service, controller 등으로 나뉘어 관리.
 
 # API
 
