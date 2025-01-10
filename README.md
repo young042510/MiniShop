@@ -12,8 +12,7 @@
   - Controller: API 요청 처리
   - Service: 비즈니스 로직 수행
   - Repository: 데이터베이스와의 상호작용
-  - Domain-Driven Design (DDD) 기반 설계:
-  - domain, repository, service, controller 등으로 나뉘어 관리.
+  - Domain-Driven Design (DDD) 기반 설계 : domain, repository, service, controller 등으로 나뉘어 관리.
 
 # API
 
